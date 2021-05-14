@@ -12,10 +12,10 @@ Lieblingsrezept #1
         <li>Gemüsepfanne mit Hähnchen</li>
       </ul>
       
-      <h2>Gemüsepfanne mit Hähnchen</h2>
+   <h2>Gemüsepfanne mit Hähnchen</h2>
       <img alt"Gemüsepfanne mit Hähnchen" src="https://img.chefkoch-cdn.de/rezepte/2762201428082116/bilder/1256499/crop-600x400/low-carb-haehnchenbrust-mit-zucchini-und-tomaten-in-cremiger-frischkaesesauce.jpg" width=500>
       
-      <p> 
+   <p> 
         Ein sehr einfaches und schnelles Gericht, aber trotzdem super lecker!
       </p>
       <h3>Zutatenliste:</h3>
